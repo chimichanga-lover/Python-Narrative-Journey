@@ -1,0 +1,16 @@
+Ways to interact with the code
+
+  1. Text Editors" Sublime/Atom
+      Not Desined for Python specifically.
+  2. Full IDEs  PyCharm/Spyder
+      Specifically for Python, paid, more functionality
+  3. Notebook Environments
+      Input/Output Next to each other - good for learning, small coding (runs on browser)
+      
+      
+      cd .. to go back a directory
+      
+      
+ Notes on Jupyter
+ Shift+enter executes
+ 
