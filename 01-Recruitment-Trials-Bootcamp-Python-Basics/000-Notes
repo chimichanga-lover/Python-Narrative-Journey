@@ -14,3 +14,12 @@ Ways to interact with the code
  Notes on Jupyter
  Shift+enter executes
  
+Python Numbers:
+1. Integers (whole numbers)  [int]
+2. Floating Points (number with decimals, 4.3)
+
+Snake Casing = separing the varibale names with underscore with_underscore
+Camel Casing = separating with capitalLetter 
+
+Slice Notation
+
